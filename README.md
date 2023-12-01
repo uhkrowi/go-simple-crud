@@ -4,7 +4,7 @@
 3. Make sure your environment supports to develop apps in Go
 
 ## Configuration
-- You can find the configuration at *.env* file
+- You can find the configuration at *.env* file. Change the values to your own configurations
 
 ## How to action
 1. Get all dependencies needed  
